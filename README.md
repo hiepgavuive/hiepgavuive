@@ -1,9 +1,12 @@
 ### Hi there 👋
+<div float="left">
 
-<!--
-**hiepgavuive/hiepgavuive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiepgavuive)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiepgavuive&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiepgavuive&hide=contribs,prs) -->
 
 - 🔭 I’m vanhiep
 - 🌱 I’m currently learning ...
